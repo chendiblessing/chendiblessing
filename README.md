@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi there I'm Chendi Blessing 👋
+
+I'm a **passionate software engineer and Scrum Master**, driven by curiosity for technology and a love for reading 📚.  
+My journey is all about diving deep into computer science, exploring new ideas, and sharing insights with the tech community.
+
 
 <!--
 **chendiblessing/chendiblessing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
